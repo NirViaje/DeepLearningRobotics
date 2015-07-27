@@ -22,6 +22,9 @@ the Architecture of the Robot is suggested as following:
  * APIs integrated with the hardware driver
  * 
  
+Well-E like will be good?
+![Well-E like?](https://pbs.twimg.com/media/Bnq4_MSIYAArik6.jpg)
+
 Learn by errors, the Cricket over ten years ago.
 (Credit by Bo2Wang2)
 ![Learn by errors, the Cricket over ten years ago](http://img6.douban.com/view/photo/photo/public/p1033179089.jpg "Learn by errors, the Cricket over ten years ago")
