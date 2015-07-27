@@ -17,6 +17,7 @@
 ##DQN
 
 * https://github.com/deepmind
+* [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 * [DeepMind publications](http://deepmind.com/publications.html)
 * [Technical Note: Q-Learning, Watkins 1992](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf)
 
