@@ -1,4 +1,5 @@
-# DeepLearningRobotics
+# the World's First Makerable Deep Learning Robot, aka MDLR
+
 for integrating Deep Learning and Robotics
 
 Basically, there are two threads now:
