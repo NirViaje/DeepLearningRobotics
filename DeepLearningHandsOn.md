@@ -20,6 +20,9 @@
 * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 * [DeepMind publications](http://deepmind.com/publications.html)
 * [Technical Note: Q-Learning, Watkins 1992](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf)
+* other than DQN: 
+ * [Sequential Deep Learning for Human Action Recognition](http://liris.cnrs.fr/Documents/Liris-5228.pdf)
+ * [Deep Recurrent Neural Networks for Time-Series Prediction](http://arxiv.org/ftp/arxiv/papers/1407/1407.5949.pdf)
 
 ##@Nvidia.Jetson
 
