@@ -15,6 +15,7 @@ integrated with:
 * Software side
  * Caffe
  * [DQN](https://gist.github.com/NirViaje/7ca109d2e99d0b16ec43#dqn)
+ * APIs integrated with the hardware driver
 * 
 
 ##@Nvidia.Jetson
