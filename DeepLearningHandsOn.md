@@ -17,6 +17,8 @@
 ##DQN
 
 * https://github.com/deepmind
+* [DeepMind publications](http://deepmind.com/publications.html)
+* [Technical Note: Q-Learning, Watkins 1992](http://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf)
 
 ##@Nvidia.Jetson
 
