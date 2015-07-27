@@ -19,4 +19,6 @@
 | Battery |  left-aligned | - | - |
 | Nvidia Jetson |    centered   |   12W | - |
 | Motors | right-aligned |    5W*2 | - |
+| Camera Head | right-aligned |    1W | - |
+| Wheels | swedish wheel? |    - | - |
 | Frame | right-aligned |    - | - |
