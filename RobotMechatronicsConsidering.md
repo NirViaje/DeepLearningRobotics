@@ -4,7 +4,7 @@
  * Li-battery 50Wh, 1kg
  * Frame, ~1kg
  * Electronics
- * Motors, 
+ * Motors, purely by deep vision without rotation encoder?
  * sum = 3~4kg
 
 * Power Consumption
