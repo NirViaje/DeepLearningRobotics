@@ -29,14 +29,7 @@
 
 ##the World's First Makerable Deep Learning Robot, aka MDLR
 
-integrated with:
-
-* Nvidia [Jetson](https://developer.nvidia.com/get-started-jetson) Embedded Tegra Computing
-* Autonomous Vehicle
-* Camera Head by Servo
-* Caffe
-* [DQN](https://gist.github.com/NirViaje/7ca109d2e99d0b16ec43#dqn)
-* portable robotics arm //[uARM](https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your/description), MDLR2.0
+[Architecture of the Robot](https://github.com/NirViaje/DeepLearningRobotics/blob/master/DeepLearningRobotics.md#architecture-of-the-robot)
 
 ##Neuromorphic Processing: A New Frontier in Scaling Computer Architecture
 
