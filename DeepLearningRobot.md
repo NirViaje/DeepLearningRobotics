@@ -21,3 +21,7 @@ integrated with:
 * [Nvidia.Jetson](https://developer.nvidia.com/get-started-jetson)
 * [Linux For Tegra Archive](https://developer.nvidia.com/embedded/linux-tegra)
 * [How to run the Caffe deep learning vision library on Nvidia’s Jetson mobile GPU board](http://petewarden.com/2014/10/25/how-to-run-the-caffe-deep-learning-vision-library-on-nvidias-jetson-mobile-gpu-board/)
+
+##Deep Learning in Depth
+
+* https://github.com/NirViaje/DeepLearningRobotics/blob/master/DeepLearningRobot.md
