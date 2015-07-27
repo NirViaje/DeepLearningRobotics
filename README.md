@@ -16,6 +16,7 @@ the Architecture of the Robot is suggested as following:
  * Autonomous Vehicle
  * Camera Head by Servos
  * portable robotic arm //[uARM](https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your/description), MDLR2.0
+ * a micro projector? //MDLR2.0
 * Software side
  * Caffe
  * [DQN](https://gist.github.com/NirViaje/7ca109d2e99d0b16ec43#dqn)
