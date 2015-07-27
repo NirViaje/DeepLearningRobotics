@@ -25,3 +25,7 @@ integrated with:
 ##Deep Learning in Depth
 
 * https://github.com/NirViaje/DeepLearningRobotics/blob/master/DeepLearningRobot.md
+
+##Ref
+
+* [LeCun, Wired, 05.27.15](http://www.wired.com/2015/05/remaking-google-facebook-deep-learning-tackles-robotics/)
