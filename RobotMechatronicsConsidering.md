@@ -14,8 +14,9 @@
  * Projector
  * etc
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Items   |      Considerations      |  Power Consumption | Wight | Cost |
+|----------|:-------------:|:-------------:|:-------------:|------:|
+| Battery |  left-aligned | - | - |
+| Nvidia Jetson |    centered   |   12W | - |
+| Motors | right-aligned |    5W*2 | - |
+| Frame | right-aligned |    - | - |
