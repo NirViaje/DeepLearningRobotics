@@ -25,7 +25,7 @@ integrated with:
 
 ##Deep Learning in Depth
 
-* https://github.com/NirViaje/DeepLearningRobotics/blob/master/DeepLearningRobot.md
+* [DeepLearningHandsOn.md](https://github.com/NirViaje/DeepLearningRobotics/blob/master/DeepLearningHandsOn.md)
 
 ##Ref
 
