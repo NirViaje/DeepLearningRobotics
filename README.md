@@ -19,7 +19,7 @@ the Architecture of the Robot is suggested as following:
  * a micro projector? //MDLR2.0
 * Software side
  * Caffe
- * [DQN](https://gist.github.com/NirViaje/7ca109d2e99d0b16ec43#dqn)
+ * [DQN](https://github.com/NirViaje/DeepLearningRobotics/blob/master/DeepLearningHandsOn.md)
  * APIs integrated with the hardware driver
  * 
  
