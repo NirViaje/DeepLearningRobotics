@@ -1,7 +1,7 @@
 # DeepLearningRobotics
 for integrating Deep Learning and Robotics
 
-Basically, there are two thread now:
+Basically, there are two threads now:
 
 * [DeepLearningRobotics.md](https://github.com/NirViaje/DeepLearningRobotics/blob/master/DeepLearningRobotics.md)
 * [DeepLearningHandsOn.md](https://github.com/NirViaje/DeepLearningRobotics/blob/master/DeepLearningHandsOn.md)
