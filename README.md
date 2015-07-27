@@ -28,5 +28,4 @@ Well-E like will be good?
 
 Learn by errors, the Cricket over ten years ago.
 (Credit by Bo2Wang2)
-
 ![Learn by errors, the Cricket over ten years ago](http://img6.douban.com/view/photo/photo/public/p1033179089.jpg "Learn by errors, the Cricket over ten years ago")
