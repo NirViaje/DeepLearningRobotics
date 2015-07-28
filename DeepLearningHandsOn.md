@@ -68,3 +68,4 @@ Several problems to address
 ##News
 
 * [New ‘deep learning’ technique enables robot mastery of skills via trial and error](http://news.berkeley.edu/2015/05/21/deep-learning-robot-masters-skills-via-trial-and-error/), UC Berkeley
+* [The Future of Computer Vision and Automated Driving by Prof. Amnon Shashua](http://eyesofthings.eu/?p=762), mostly about EyeQ SoC
