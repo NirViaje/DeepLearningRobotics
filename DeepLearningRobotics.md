@@ -17,7 +17,7 @@ integrated with:
 * Software side
  * Caffe
  * [DQN](https://gist.github.com/NirViaje/7ca109d2e99d0b16ec43#dqn)
- * SLAM, like [LSD](https://github.com/tum-vision/lsd_slam/issues/53)
+ * SLAM, like [LSD](https://github.com/tum-vision/lsd_slam/issues/53), [SLAMBenchmark](http://wp.doc.ic.ac.uk/lnardi/wp-content/uploads/sites/68/2014/04/2014-12-19_SLAMBenchLaSapienza.pdf)
  * APIs integrated with the hardware driver
 * 
 
