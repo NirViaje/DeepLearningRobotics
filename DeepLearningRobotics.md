@@ -10,11 +10,14 @@ integrated with:
  * Nvidia [Jetson](https://developer.nvidia.com/get-started-jetson) Embedded Tegra Computing
  * Autonomous Vehicle
  * Camera Head by Servo
+* on MDLR2.0
  * portable robotics arm //[uARM](https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your/description), MDLR2.0
- * a micro projector? //MDLR2.0
+ * DepthCamera //[DepthSense DS325](http://myzharbot.robot-home.it/blog/software/myzharbot-ros/ros-deptsense_camera_ros/) | [Amazon](http://www.amazon.com/Creative-Gesture-Recognition-Personal-Computers/dp/B00EVWX7CG)
+ * a LCD/micro projector? //MDLR2.0
 * Software side
  * Caffe
  * [DQN](https://gist.github.com/NirViaje/7ca109d2e99d0b16ec43#dqn)
+ * SLAM, like [LSD](https://github.com/tum-vision/lsd_slam/issues/53)
  * APIs integrated with the hardware driver
 * 
 
