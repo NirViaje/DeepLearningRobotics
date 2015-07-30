@@ -34,6 +34,7 @@ integrated with:
 ##@Robotics
 
 * The aim of the [Rawseeds Project](http://www.rawseeds.org/home/) is to build benchmarking tools for robotic systems.
+* Google project-tango: [area-learning](https://developers.google.com/project-tango/overview/area-learning)
 
 ##Deep Learning in Depth
 
