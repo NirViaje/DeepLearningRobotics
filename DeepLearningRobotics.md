@@ -26,6 +26,7 @@ integrated with:
 * [Walking/Wheels Jetson robot](http://elinux.org/Jetson_TK1)
 * [[DL](http://jetsonhacks.com/category/deep-learning/)|[Robotics](http://jetsonhacks.com/category/robotics/)]@jetsonhacks
 * http://devblogs.nvidia.com/parallelforall/low-power-image-recognition-challenge-jets/
+* http://secondrobotics.com/projects/robots/nvidia-jetson-robot-concept/nvidia-jetson-robot-goals/
 
 ##Deep Learning in Depth
 
