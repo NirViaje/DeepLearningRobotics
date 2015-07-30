@@ -31,6 +31,10 @@ integrated with:
 * http://devblogs.nvidia.com/parallelforall/low-power-image-recognition-challenge-jets/
 * http://secondrobotics.com/projects/robots/nvidia-jetson-robot-concept/nvidia-jetson-robot-goals/
 
+##@Robotics
+
+* The aim of the [Rawseeds Project](http://www.rawseeds.org/home/) is to build benchmarking tools for robotic systems.
+
 ##Deep Learning in Depth
 
 * [DeepLearningHandsOn.md](https://github.com/NirViaje/DeepLearningRobotics/blob/master/DeepLearningHandsOn.md)
