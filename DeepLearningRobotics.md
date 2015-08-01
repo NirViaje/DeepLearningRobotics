@@ -12,7 +12,7 @@ integrated with:
  * Camera Head by Servo
 * on MDLR2.0
  * portable robotics arm //[uARM](https://www.kickstarter.com/projects/ufactory/uarm-put-a-miniature-industrial-robot-arm-on-your/description), MDLR2.0
- * DepthCamera //[DepthSense DS325](http://myzharbot.robot-home.it/blog/software/myzharbot-ros/ros-deptsense_camera_ros/) | [Amazon](http://www.amazon.com/Creative-Gesture-Recognition-Personal-Computers/dp/B00EVWX7CG)
+ * DepthCamera //[DepthSense DS325](http://myzharbot.robot-home.it/blog/software/myzharbot-ros/ros-deptsense_camera_ros/) | [Amazon](http://www.amazon.com/Creative-Gesture-Recognition-Personal-Computers/dp/B00EVWX7CG) | TI [3DToF](http://www.ti.com/ww/en/analog/3dtof/)
  * a LCD/micro projector? //MDLR2.0
 * Software side
  * Caffe
