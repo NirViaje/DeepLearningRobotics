@@ -1,5 +1,9 @@
 ##Deep Network Workbench
 
+###DL in depth
+
+* http://www.cnblogs.com/tornadomeet/archive/2012/06/24/2560261.html
+
 ###Caffe
 
 * [Caffe: a fast open framework for deep learning](https://github.com/BVLC/caffe)
