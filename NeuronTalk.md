@@ -1,4 +1,4 @@
-h#On the New Era of Computing
+#On the New Era of Computing
 
 ##Agenda
 
@@ -7,7 +7,6 @@ the brain
 * eg., some works from a berkeley lab
 
 neuron morphological computing, //bio-mimic
-* how neuron works
 * FACETS
 ** Blue brain
 * [SyNAPSE](https://en.wikipedia.org/wiki/SyNAPSE)
@@ -15,7 +14,7 @@ neuron morphological computing, //bio-mimic
 ** IBM [TrueNorth](http://www.research.ibm.com/articles/brain-chip.shtml)
 * others
 
-Computational model of (understanding) from typical computer scientist's eyes
+Computational model from typical computer scientist's eyes
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
 ** Pattern Recognition
 ** Statistical Learning
@@ -27,35 +26,32 @@ the deep revolution, started by Geoffrey Hinton
 * history of the Hinton family
 
 Hardware deep learning accelerator (on chip)
-* CPU/SIMD/GPU/FPGA
 * the ending Moore's law for tuning machine (or say von Neumann machine)
 ** the biggest acquiration in history for Intel, Intel acquired Altera
 ** CAS Diannao series
 ** Horizontal Tech, by Kai Yu, Ex-Baiduer, former leader of Baidu IDL
-** the Synopsys IP, 1Tops/W
+** the Synopsys IP
 ** Mobileye
-** to name a few //other vendors/projects
-* the progress, low power high computational density, the Singularity book
+** to name a few /other vendors/projects
 * review, new era for computation, the left/right brain for silicon
 
 What we can do from now, and here (eg., XCJ)
-* Caffe, the DL tools chain/environment, eg., matlab toolbox
+* Caffe, the DL tools chain/environment
 ** online demo
 * the Nvidia Jetson
 ** some resource (eg., [jetsonhacks](jetsonhacks.com)
-** Caffe on Jetson, 34ms for (ImgNet)
-* the [DeepLearningRobotics](https://github.com/NirViaje/DeepLearningRobotics/new/master) //godaddy
-** Caffe/DQN/..
+** Caffe on Jetson
+* the [DeepLearningRobotics](https://github.com/NirViaje/DeepLearningRobotics/new/master) /godaddy
 
 Thanks
 
-##
+##--
 
 ##Appendix
 
 ###two fundamental problem on theoritical computer science
 
-* computational complexity (mostly on model of tuning machine or likely
+* computational complexity (mostly on model of tuning machine or likely)
 * artificial intelligence
 
 ##Reference
