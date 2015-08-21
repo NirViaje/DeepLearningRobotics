@@ -8,16 +8,16 @@ the brain
 
 neuron morphological computing, //bio-mimic
 * FACETS
-** Blue brain
+ * Blue brain
 * [SyNAPSE](https://en.wikipedia.org/wiki/SyNAPSE)
-** bring cat out of bag
-** IBM [TrueNorth](http://www.research.ibm.com/articles/brain-chip.shtml)
+ * bring cat out of bag
+ * IBM [TrueNorth](http://www.research.ibm.com/articles/brain-chip.shtml)
 * others
 
 Computational model from typical computer scientist's eyes
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
-** Pattern Recognition
-** Statistical Learning
+ * Pattern Recognition
+ * Statistical Learning
 * on Tuning Machine
 
 the deep revolution, started by Geoffrey Hinton
@@ -27,21 +27,21 @@ the deep revolution, started by Geoffrey Hinton
 
 Hardware deep learning accelerator (on chip)
 * the ending Moore's law for tuning machine (or say von Neumann machine)
-** the biggest acquiration in history for Intel, Intel acquired Altera
-** CAS Diannao series
-** Horizontal Tech, by Kai Yu, Ex-Baiduer, former leader of Baidu IDL
-** the Synopsys IP
-** Mobileye
-** to name a few /other vendors/projects
+ * the biggest acquiration in history for Intel, Intel acquired Altera
+ * CAS Diannao series
+ * Horizontal Tech, by Kai Yu, Ex-Baiduer, the  former leader of Baidu IDL
+ * the Synopsys IP
+ * Mobileye
+ * to name a few //other vendors/projects
 * review, new era for computation, the left/right brain for silicon
 
 What we can do from now, and here (eg., XCJ)
 * Caffe, the DL tools chain/environment
-** online demo
+ * online demo
 * the Nvidia Jetson
-** some resource (eg., [jetsonhacks](jetsonhacks.com)
-** Caffe on Jetson
-* the [DeepLearningRobotics](https://github.com/NirViaje/DeepLearningRobotics/new/master) /godaddy
+ * some resource (eg., [jetsonhacks](jetsonhacks.com)
+ * Caffe on Jetson
+* the [DeepLearningRobotics](https://github.com/NirViaje/DeepLearningRobotics/new/master) //godaddy
 
 Thanks
 
