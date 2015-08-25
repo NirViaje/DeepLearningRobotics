@@ -3,10 +3,11 @@
 ##Agenda
 
 the brain
-* what our brain is
+* what our brain is?
 * eg., some works from a berkeley lab
 
 neuron morphological computing, //bio-mimic
+* what neuron is?
 * FACETS
  * Blue brain
 * [SyNAPSE](https://en.wikipedia.org/wiki/SyNAPSE)
@@ -27,6 +28,7 @@ the deep revolution, started by Geoffrey Hinton
 
 Hardware deep learning accelerator (on chip)
 * the ending Moore's law for tuning machine (or say von Neumann machine)
+ * end of down-scale, high clock frequency, power consuming
  * the efficiency of silicon footprint
 * Emergence in the silicon world
  * the biggest acquiration in history for Intel, Intel acquired Altera
