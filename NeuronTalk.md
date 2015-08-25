@@ -27,13 +27,15 @@ the deep revolution, started by Geoffrey Hinton
 
 Hardware deep learning accelerator (on chip)
 * the ending Moore's law for tuning machine (or say von Neumann machine)
+ * the efficiency of silicon footprint
+* Emergence in the silicon world
  * the biggest acquiration in history for Intel, Intel acquired Altera
  * CAS Diannao series
  * Horizontal Tech, by Kai Yu, Ex-Baiduer, the  former leader of Baidu IDL
  * the Synopsys IP
  * Mobileye
  * to name a few //other vendors/projects
-* review, new era for computation, the left/right brain for silicon
+* review, the singularity metaphor of computation capacity, new era for computation, the left/right brain for silicon
 
 What we can do from now, and here (eg., XCJ)
 * Caffe, the DL tools chain/environment
