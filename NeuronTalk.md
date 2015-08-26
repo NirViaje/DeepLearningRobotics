@@ -42,7 +42,7 @@ Hardware deep learning accelerator (on chip)
  * the biggest acquiration in history for Intel, Intel acquired Altera
  * CAS [Diannao](http://novel.ict.ac.cn/ychen/pdf/DianNao.pdf), [DaDiannao](http://novel.ict.ac.cn/ychen/pdf/DaDianNao.pdf) series
  * Horizontal Tech, by Kai Yu, Ex-Baiduer, the  former leader of Baidu IDL
- * the Synopsys IP
+ * the [Synopsys IP](https://www.synopsys.com/dw/ipdir.php?ds=ev52-ev54)
  * Mobileye
  * to name a few //other vendors/projects
 * review, the singularity metaphor of computation capacity, new era for computation, the left/right brain for silicon
