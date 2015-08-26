@@ -4,15 +4,16 @@
 
 the brain
 * what our brain is?
+ * ~1.3 square, ~100B neurons in adult human brain
 * eg., some works from a berkeley lab
 
 neuron morphological computing, //bio-mimic
-* what neuron is?
-* FACETS
- * Blue brain
+* what [neuron is](https://www.bing.com/images/search?q=neuron&qpvt=neuron&qpvt=neuron&FORM=IGRE)?
+* [FACETS](https://facets.kip.uni-heidelberg.de/), [media](https://facets.kip.uni-heidelberg.de/public/media/download.html)
+ * [Blue brain](http://bluebrain.epfl.ch/)
 * [SyNAPSE](https://en.wikipedia.org/wiki/SyNAPSE)
- * bring cat out of bag
- * IBM [TrueNorth](http://www.research.ibm.com/articles/brain-chip.shtml)
+ * [bring cat out of bag?](http://p9.hostingprod.com/@modha.org/blog/2009/11/)
+ * IBM [TrueNorth](http://www.research.ibm.com/articles/brain-chip.shtml), [Summary](http://pic3.zhimg.com/3870589633debd7c0a00ef6e07f07072_r.jpg)
 * others
 
 Computational model from typical computer scientist's eyes
@@ -41,7 +42,7 @@ Hardware deep learning accelerator (on chip)
 
 What we can do from now, and here (eg., XCJ)
 * Caffe, the DL tools chain/environment
- * online demo
+ * online [demo](http://demo.caffe.berkeleyvision.org/)
 * the Nvidia Jetson
  * some resource (eg., [jetsonhacks](jetsonhacks.com)
  * Caffe on Jetson
