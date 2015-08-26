@@ -20,20 +20,22 @@ Computational model from typical computer scientist's eyes
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
  * Pattern Recognition
  * Statistical Learning
+  * e.g., ![sparse coding](http://img.my.csdn.net/uploads/201304/09/1365438678_4293.jpg)
 * on Tuning Machine
 
 the deep revolution, started by Geoffrey Hinton
-* works back from 30 years ago
+* works back from [30 years ago](https://en.wikipedia.org/wiki/Deep_Learning)
 * how to deep
+ * e.g., ![Networks, Representations, Visual Cortex](http://img.my.csdn.net/uploads/201304/09/1365438722_9668.jpg)
 * history of the Hinton family
 
 Hardware deep learning accelerator (on chip)
-* the ending Moore's law for tuning machine (or say von Neumann machine)
+* the ending Moore's law for tuning machine (or say von Neumann machine), [e.g.](http://news.mydrivers.com/1/102/102655.htm)
  * end of down-scale, high clock frequency, power consuming
  * the efficiency of silicon footprint
 * Emergence in the silicon world
  * the biggest acquiration in history for Intel, Intel acquired Altera
- * CAS Diannao series
+ * CAS [Diannao](http://novel.ict.ac.cn/ychen/pdf/DianNao.pdf), [DaDiannao](http://novel.ict.ac.cn/ychen/pdf/DaDianNao.pdf) series
  * Horizontal Tech, by Kai Yu, Ex-Baiduer, the  former leader of Baidu IDL
  * the Synopsys IP
  * Mobileye
@@ -42,11 +44,11 @@ Hardware deep learning accelerator (on chip)
 
 What we can do from now, and here (eg., XCJ)
 * Caffe, the DL tools chain/environment
- * online [demo](http://demo.caffe.berkeleyvision.org/)
+ * online [demo](http://demo.caffe.berkeleyvision.org/classify_url?imageurl=http%3A%2F%2Fimg6.douban.com%2Fview%2Fphoto%2Fphoto%2Fpublic%2Fp1566208968.jpg)
 * the Nvidia Jetson
  * some resource (eg., [jetsonhacks](jetsonhacks.com)
- * Caffe on Jetson
-* the [DeepLearningRobotics](https://github.com/NirViaje/DeepLearningRobotics/new/master) //godaddy
+ * [Caffe on Jetson](http://petewarden.com/2014/10/25/how-to-run-the-caffe-deep-learning-vision-library-on-nvidias-jetson-mobile-gpu-board/)
+* the [DeepLearningRobotics](https://github.com/NirViaje/DeepLearningRobotics/new/master)
 
 Thanks
 
