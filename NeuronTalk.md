@@ -18,6 +18,7 @@ neuron morphological computing, //bio-mimic
 * others
 
 Computational model from typical computer scientist's eyes
+* Supervisor Learning, Unsupervisor Learning, Reinforcement Learning
 * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/)
  * Pattern Recognition
  * Statistical Learning
