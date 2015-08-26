@@ -1,12 +1,11 @@
 #On the New Era of Computing
-##脑，神经认知计算与硅实现，深度学习，深度硬件加速器，以及在新车间我们能够干嘛
 
 ##Agenda
 
 the brain
 * what our brain is?
  * ~1.3 square, ~100B neurons in adult human brain
-* eg., some works from a berkeley lab
+* eg., some works from a berkeley [lab](http://gallantlab.org/semanticmovies/)
 
 neuron morphological computing, //bio-mimic
 * what [neuron is](https://www.bing.com/images/search?q=neuron&qpvt=neuron&qpvt=neuron&FORM=IGRE)?
@@ -71,7 +70,7 @@ Thanks
 
 * --
 
-建议的标题：
+Some proposal：
 
 * 图灵计算与深度计算，硅上的左脑与右脑*
 
