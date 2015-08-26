@@ -1,4 +1,5 @@
 #On the New Era of Computing
+##脑，神经认知计算与硅实现，深度学习，深度硬件加速器，以及在新车间我们能够干嘛
 
 ##Agenda
 
