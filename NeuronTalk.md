@@ -25,8 +25,9 @@ Computational model from typical computer scientist's eyes
 
 the deep revolution, started by Geoffrey Hinton
 * works back from [30 years ago](https://en.wikipedia.org/wiki/Deep_Learning)
+* ![Canada ppl](https://s3.amazonaws.com/datarobotblog/images/deepLearningIntro/009.png)
 * how to deep
- * e.g., ![Networks, Representations, Visual Cortex](http://img.my.csdn.net/uploads/201304/09/1365438722_9668.jpg), ![](http://images.cnitblog.com/blog2015/303995/201503/172154168452272.png)
+ * e.g., ![Networks, Representations, Visual Cortex](http://img.my.csdn.net/uploads/201304/09/1365438722_9668.jpg), ![](http://images.cnitblog.com/blog2015/303995/201503/172154168452272.png), ![](https://s3.amazonaws.com/datarobotblog/images/deepLearningIntro/013.png)
 * history of the Hinton family
 
 Hardware deep learning accelerator (on chip)
