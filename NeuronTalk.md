@@ -34,6 +34,8 @@ Hardware deep learning accelerator (on chip)
  * ![](http://img1.mydrivers.com/img/20080402/02473978.jpg), ![](http://img1.mydrivers.com/img/20080402/02500074.jpg)
  * end of down-scale, high clock frequency, power consuming
  * the efficiency of silicon footprint
+ * ![](http://devblogs.nvidia.com/parallelforall/wp-content/uploads/sites/3/2014/09/cudnn_caffe_performance-289x300.png)
+ * CPU/SIMD/GPU/FPGA/deep learning accelerator?
 * Emergence in the silicon world
  * the biggest acquiration in history for Intel, Intel acquired Altera
  * CAS [Diannao](http://novel.ict.ac.cn/ychen/pdf/DianNao.pdf), [DaDiannao](http://novel.ict.ac.cn/ychen/pdf/DaDianNao.pdf) series
