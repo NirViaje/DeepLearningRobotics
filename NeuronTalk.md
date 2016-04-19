@@ -31,7 +31,7 @@ the deep revolution, started by Geoffrey Hinton
  * e.g., ![Networks, Representations, Visual Cortex](http://img.my.csdn.net/uploads/201304/09/1365438722_9668.jpg), ![](http://images.cnitblog.com/blog2015/303995/201503/172154168452272.png), ![](https://s3.amazonaws.com/datarobotblog/images/deepLearningIntro/013.png)
 * history of the Hinton family
 
-Hardware deep learning accelerator (on chip)
+###Hardware deep learning accelerator (on chip)
 * the ending Moore's law for tuning machine (or say von Neumann machine), [e.g.](http://news.mydrivers.com/1/102/102655.htm)
  * ![](http://img1.mydrivers.com/img/20080402/02473978.jpg), ![](http://img1.mydrivers.com/img/20080402/02500074.jpg)
  * end of down-scale, high clock frequency, power consuming
