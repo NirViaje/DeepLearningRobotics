@@ -34,6 +34,7 @@ the deep revolution, started by Geoffrey Hinton
 ###Hardware deep learning accelerator (on chip)
 * the ending Moore's law for tuning machine (or say von Neumann machine), [e.g.](http://news.mydrivers.com/1/102/102655.htm)
  * ![](http://img1.mydrivers.com/img/20080402/02473978.jpg), ![](http://img1.mydrivers.com/img/20080402/02500074.jpg)
+ * ![](https://www.ixbt.com/cpu/images/p6-nexgen/ris5.jpg) 
  * end of down-scale, high clock frequency, power consuming
  * the efficiency of silicon footprint
  * ![](http://devblogs.nvidia.com/parallelforall/wp-content/uploads/sites/3/2014/09/cudnn_caffe_performance-289x300.png)
