@@ -65,6 +65,13 @@ Thanks
 
 * computational complexity (mostly on model of tuning machine or likely)
 * artificial intelligence
+* 它的平均性能（TOPS）可以达到CPU和GPU的15到30倍，能耗效率（TOPS/W）能到30到80倍。如果使用GPU的DDR5 memory，这两个数值可以达到大约GPU的70倍和CPU的200倍。[Google TPU 揭密, StarryHeavensAbove]
+* 如何设计一颗40PFLOPS量级的AI芯片？
+* Hennessy and Patterson
+ * 2018-02-05，Google 的母公司 Alphabet 宣布 John Hennessy 将接替 Eric Schimdt 就任董事长。而在这之前，David Patterson 就已经开始在 Google 担任杰出工程师
+ * RISC-V与DSA！ 计算机架构宗师Patterson与Hennessy 演讲实录
+ * 2017年图灵奖颁给计算机体系结构大师Hennessy和Patterson
+
 
 ##Reference
 
