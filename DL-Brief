@@ -16,9 +16,12 @@ DL in an hour, (Don't laugh I just get to understand. ..
   * matrix and non-linear
  * XOR, [multi-layer](https://playground.tensorflow.org/)
  * principle
-  * info redundant, constrain
+  * info redundant, constrain (cnn
   * info distill (auto-encoder/LeNet
- * localize, convolution, primary visual cortex of mammal, DCF
+ * localize, convolution, primary visual cortex of mammal, DCT
+  * huge number of weights/paras
+  * visual cortex, DCT
+  * localize, convolution
  * LeNet, AlexNet, VGG, GoogLeNet inception, ResNet
   * timeline
   * ReLu, with leakage, pooling, dropout etc
