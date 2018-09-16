@@ -13,7 +13,7 @@
  * LeNet, AlexNet, VGG, GoogLeNet inception, ResNet
   * timeline
   * ReLu, with leakage etc
-  * optimization
+  * optimization, training, backpropagation, Andrew Ng's course
 5. Gu@SUNY, manifold
 6. what's more
  * LSTM
