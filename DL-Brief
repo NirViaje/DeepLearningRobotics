@@ -25,7 +25,7 @@ DL in an hour, a personal perspective
  * LeNet, AlexNet, VGG, GoogLeNet inception, ResNet
   * timeline
   * ReLu, with leakage, pooling, dropout etc
-  * optimization, training, backpropagation, Andrew Ng's course
+  * optimization, training, backpropagation, [Andrew Ng's course](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
 5. Gu@SUNY, manifold
 6. what's more
  * LSTM
@@ -40,7 +40,7 @@ DL in an hour, a personal perspective
 7. a little bit more on AGI
  * ![](https://pic1.zhimg.com/80/c88b9731c98a2271b744347856f6706c_hd.png)
 8. fully DL rendered movie?
- * nVidia be a render company again
+ * [nVidia be a render company again](https://zhuanlan.zhihu.com/p/31627466)
  
 ##HandsOn
 
