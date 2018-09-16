@@ -5,5 +5,15 @@
  * https://www.ibiblio.org/e-notes/Splines/nurbs.html
  * https://www.ibiblio.org/e-notes/Splines/bezier3d.html
 2. Universal approximation theorem
+4. https://github.com/NirViaje/DeepLearningRobotics/blob/master/NeuronTalk.md
+ * Hebbian, naive ANN
+ * XOR, [multi-layer](https://playground.tensorflow.org/)
+ * info redundant, constrain
+ * localize, convolution, primary visual cortex of mammal, DCF
+ * LeNet, AlexNet, VGG, GoogLeNet inception, ResNet
+  * timeline
+  * ReLu, with leakage etc
+  * optimization
+5. 顾险峰，manifold
 3. a little bit more on AGI
  * ![](https://pic1.zhimg.com/80/c88b9731c98a2271b744347856f6706c_hd.png)
