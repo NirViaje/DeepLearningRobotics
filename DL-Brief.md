@@ -48,6 +48,7 @@ DL in an hour, a personal perspective
  * 1080Tix3
  * P40x2
 2. [Deepo](https://github.com/ufoym/deepo)
+3. [git](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 
 ##Several Cases
 
