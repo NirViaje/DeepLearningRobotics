@@ -9,6 +9,7 @@ DL in an hour, (Don't laugh I just get to understand. ..
 2. Universal approximation theorem
 4. https://github.com/NirViaje/DeepLearningRobotics/blob/master/NeuronTalk.md
  * Hebbian, naive ANN
+  * matrix and non-linear
  * XOR, [multi-layer](https://playground.tensorflow.org/)
  * info redundant, constrain
  * localize, convolution, primary visual cortex of mammal, DCF
