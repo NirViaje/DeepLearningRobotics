@@ -72,9 +72,42 @@
       
       * visual cortex, DCT
 
+      ![](img/cconvdemo.png)
+      ![](img/convolution-img-calc.png)
+      ![](img/sparse-matrix-mul.jpg)
+      ![](img/sparse-matrix-mul-vectors.png)
+
       * localize, convolution
     * LeNet, AlexNet, VGG, GoogLeNet inception, ResNet
+
+    ![](img/CNN-anatomy.png)
+
       * timeline
+
+    ![](img/cnn-1998-LeNet.jpg)
+
+        * LeNet, 1998
+
+    ![](img/cnn-1998-LeNet.jpg)
+
+        * AlexNet
+
+    ![](img/cnn-1998-LeNet.jpg)
+
+        * VGG
+
+    ![](img/cnn-2014-GoogLeNet-anatomy.png)
+    ![](img/cnn-2014-GoogLeNet-arch.jpg)
+
+        * GoogLeNet inception, 2014
+
+    ![](img/cnn-1998-LeNet.jpg)
+
+        * ResNet
+
+    ![](img/nnarch13_eNet.png)
+    ![](img/nnarch-calc.png)
+
       * ReLu, with leakage, pooling, dropout etc
       * optimization, training, backpropagation, [Andrew Ng's course](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
 5. Gu@SUNY, manifold
@@ -110,7 +143,7 @@
 4. more
 
 
-<script src="https://www.ibiblio.org/e-notes/Splines/CanvasMatrix.js" type="text/javascript"></script>
+<!-- <script src="https://www.ibiblio.org/e-notes/Splines/CanvasMatrix.js" type="text/javascript"></script>
 
 <script id="shader-vs" type="x-shader/x-vertex"> 
   attribute vec3 aPos;
@@ -479,4 +512,4 @@ function drawScene(){
   output.innerHTML = " x= " + round(x) +" y= "+ round(y);
 }
 function round(v){ return Math.round(1000*v/transl)/1000; }
-</script> 
+</script>  -->
