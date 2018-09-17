@@ -1,9 +1,18 @@
-DL in an hour, a personal perspective
+# DL in an hour, a personal perspective
+
+![](img/nurbs-data-manifold.png)
 
 ## Fundament
 
 1. Fit, aprroximation, interpolation, estimation, predict
+
+<!-- ![](img/GaussFitExample_3.png) -->
+![](img/Curve-Fitting-Toolbox.jpg)
+
 2. case in real life, spline
+
+![](img\Bezier-patch.png)
+
     * https://www.ibiblio.org/e-notes/Splines/nurbs.html
     * https://www.ibiblio.org/e-notes/Splines/bezier3d.html
 2. Universal approximation theorem
@@ -38,6 +47,7 @@ DL in an hour, a personal perspective
       * unsupervised
       * etc
 7. a little bit more on AGI
+    * [AIXI](https://www.zhihu.com/question/34393952/answer/65205814)
     * ![](https://pic1.zhimg.com/80/c88b9731c98a2271b744347856f6706c_hd.png)
 8. fully DL rendered movie?
     * [nVidia be a render company again](https://zhuanlan.zhihu.com/p/31627466)
@@ -53,5 +63,6 @@ DL in an hour, a personal perspective
 ## Several Cases
 
 1. on Aesthetic, eyes movement
-2. scratch2code etc
-3. more
+2. [scratch2code](https://zhuanlan.zhihu.com/p/33277230)
+3. [coloring](https://zhuanlan.zhihu.com/p/31965450)
+4. more
