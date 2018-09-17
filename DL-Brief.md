@@ -22,20 +22,56 @@
     
     * spline appr
     
+    ![](img/headus-poly-to-nurbs-car.jpg)
     <!-- <canvas id="canvas" width="500" height="500"></canvas>  -->
 
     * multi-diemensions
+
+    ![](img/Photography_cheat_sheet_digital_processing.jpg)
+
     * image, cases of low dimension embedded
+
+    ![](img/stanford_statues_manifold.jpg)
+    ![](img/manifold-face.png)
+
 4. https://github.com/NirViaje/DeepLearningRobotics/blob/master/NeuronTalk.md
     * Hebbian, naive ANN
+      * where the neuron is?
+      
+      ![](img/Hebbian.png)
+
       * matrix and non-linear
+      
+      ![](img/single-artificial-neuron.png)
+      ![](img/Feed-forward-neural-network-with-sigmoid-activation-function-X-i-i-1P-input.png)
+      ![](img/real-valued-binary-networks.png)
+
     * XOR, [multi-layer](https://playground.tensorflow.org/)
+
+    ![](img/playground-tensorflow-single-layer.png)
+    ![](img/playground-tensorflow-2-hidden.png)
+
     * principle
-      * info redundant, constrain (cnn
+
+
+      * info redundant, constrain (cnn, dimension reduction
+
+    ![](img/nurbs-data-manifold.png)
+
       * info distill (auto-encoder/LeNet
+
+    ![](img/pixelspaceLinear.jpeg)
+    
     * localize, convolution, primary visual cortex of mammal, DCT
+
+      ![](img/DNN.jpg)
+
       * huge number of weights/paras
+
+      ![](img/face-patches.png)
+      
       * visual cortex, DCT
+
       * localize, convolution
     * LeNet, AlexNet, VGG, GoogLeNet inception, ResNet
       * timeline
