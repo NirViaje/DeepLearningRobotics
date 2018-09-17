@@ -13,12 +13,12 @@
     * https://www.ibiblio.org/e-notes/Splines/nurbs.html
     * https://www.ibiblio.org/e-notes/Splines/bezier3d.html
 
-![](img\Bezier-patch.png)
+![](img/Bezier-patch.png)
 
-2. Universal approximation theorem
+2. Universal [approximation](https://zhuanlan.zhihu.com/p/23186434) theorem
     * [UAT](https://en.wikipedia.org/wiki/Universal_approximation_theorem)
     
-    ![](img\UAT.png)
+    ![](img/UAT.png)
     
     * spline appr
     
@@ -81,40 +81,66 @@
     * LeNet, AlexNet, VGG, GoogLeNet inception, ResNet
 
     ![](img/CNN-anatomy.png)
+    ![](img/simple-introduction-to-autoencoder-26-638.jpg)
 
-      * timeline
-
-    ![](img/cnn-1998-LeNet.jpg)
-
-        * LeNet, 1998
+      * timeline, go deep, [Autoencoder](https://www.slideshare.net/billlangjun/simple-introduction-to-autoencoder), Hinton 2006
 
     ![](img/cnn-1998-LeNet.jpg)
 
-        * AlexNet
+      0. LeNet, 1998
 
-    ![](img/cnn-1998-LeNet.jpg)
+    ![](img/cnn-2012-alexnet-features.png)
+    ![](img/cnn-2012-alexnet.png)
+    ![](img/cnn-2012-alexnet-calc.png)
 
-        * VGG
+      1. [AlexNet](https://my.oschina.net/u/876354/blog/1633143), 2012,  ImageNet Challenge
+
+    ![](img/cnn-2014-A-visualization-of-the-VGG-architecture.png)
+
+      2. [Vgg](https://blog.csdn.net/qq_40027052/article/details/79015827), 2014, Visual Geometry Group - University of Oxford
 
     ![](img/cnn-2014-GoogLeNet-anatomy.png)
     ![](img/cnn-2014-GoogLeNet-arch.jpg)
 
-        * GoogLeNet inception, 2014
+      3. [GoogLeNet inception](https://my.oschina.net/u/876354/blog/1637819), 2014
 
     ![](img/cnn-1998-LeNet.jpg)
 
-        * ResNet
+      4. ResNet, 2015 Dec
+
+    ![](img/cnn-2015-resnet-layer.jpg)
+    ![](img/cnn-2015-resnet-bottleneck-layer.jpg)
+
+      * [Survey](https://www.topbots.com/a-brief-history-of-neural-network-architectures/)
 
     ![](img/nnarch13_eNet.png)
     ![](img/nnarch-calc.png)
+    ![](img/cnn-evolve.png)
+    ![](img/cnn-survey-go-deeper.jpg)
 
-      * ReLu, with leakage, pooling, dropout etc
+
+      * build blocks, [ReLu 1996/2010](https://www.zhihu.com/question/61265076/answer/260492479), with leakage, pooling, dropout etc
+
+    ![](img/relu-common-nonlinear-activation-functions.png)
+    ![](img/ReLu-adv.jpg)
+
       * optimization, training, backpropagation, [Andrew Ng's course](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
+
+      ![](img/bp-output_1_backprop-4.png)
+      ![](img/bp-nn-calculation.png)
+
 5. Gu@SUNY, manifold
+
+
+
 6. what's more
+    * detect, track, Yolo/openPose etc
     * LSTM
     * GAN
     * DRL
+
+    ![](img/openai-robotics.png)
+
     * connect concrete and abstract
       * the figure of three stage
     * further methodology
