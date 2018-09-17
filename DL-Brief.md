@@ -131,7 +131,7 @@
 
 5. Gu@SUNY, manifold
 
-
+    ![](img/manifold-Gu-640.webp)
 
 6. what's more
     * detect, track, Yolo/openPose etc
@@ -140,7 +140,7 @@
     * DRL
 
     ![](img/openai-robotics.png)
-
+    ![](img/intell-stages.jpg)
     * connect concrete and abstract
       * the figure of three stage
     * further methodology
