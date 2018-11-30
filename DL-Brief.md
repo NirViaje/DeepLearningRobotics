@@ -142,6 +142,7 @@
     ![](img/openai-robotics.png)
     ![](img/intell-stages.jpg)
     * connect concrete and abstract
+      * [Deep Learning and Geometry, by Xianfeng Gu](https://mp.weixin.qq.com/s/Upkci9ovvrlmA7EhqmNd0g)
       * the figure of three stage
     * further methodology
       * non-BP
