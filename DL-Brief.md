@@ -138,7 +138,8 @@
     * LSTM
     * GAN
     * DRL
-
+    
+    ![image](https://user-images.githubusercontent.com/1320252/58313710-cb942080-7e40-11e9-855c-e8132e852b4a.png)
     ![](img/openai-robotics.png)
     ![](img/intell-stages.jpg)
     * connect concrete and abstract
